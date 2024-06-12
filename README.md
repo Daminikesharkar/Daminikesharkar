@@ -50,7 +50,7 @@ I am a passionate software engineer with expertise in full stack development. My
 ### 📫 Contact Me
 <p>
   <a href="mailto:daminisk272@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="www.linkedin.com/in/damini-kesharkar-121236195"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/damini-kesharkar-121236195/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <p>

@@ -1,8 +1,12 @@
 # Hi there, I'm Damini!
-## Full Stack Developer | MERN stack
+## Full Stack Developer | Javascript Typescript Python Node.js Express.js Nest.js FastAPI React.js SQL NOSQL AWS Kafka Docker 
 
 ### About Me
-I am a passionate software engineer with expertise in full stack development. My primary tech stack includes JavaScript, Node.js, Express, MongoDB, MySQL, React HTML, CSS, Bootstrap, AWS, Linux, Git, and Docker. I enjoy building scalable and efficient web applications and continually seek to enhance my skills and knowledge in the field.
+Software Engineer with 3+ years of experience building scalable backend systems, real-time applications, and full-stack web 
+platforms across product and freelance engagements. Experienced in developing APIs, event-driven systems, and production-grade 
+applications using Node.js, TypeScript, Python, PostgreSQL, MongoDB, Redis, Kafka, and WebSockets. Hands-on experience with 
+React.js, cloud deployments on AWS, containerization using Docker, and AI-powered application development. Proven ability to 
+build reliable, maintainable, and high-performance software solutions
 
 ### 🛠️ Tech Stack
 
@@ -13,10 +17,15 @@ I am a passionate software engineer with expertise in full stack development. My
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-**Web Frameworks:**
+**Web Development:**
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/AI_Integrations-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI Integrations" />
 </p>
 
 **Databases:**
@@ -37,7 +46,6 @@ I am a passionate software engineer with expertise in full stack development. My
 
 **Other Software Skills:**
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
 </p>
